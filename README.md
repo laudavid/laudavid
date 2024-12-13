@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a currently a <b><u>Machine Learning Research Engineer</u></b> at [Hi! PARIS](https://www.hi-paris.fr/), an AI research center founded by **Institut Polytechnique de Paris** and **HEC Paris** in 2020. My educational background is in *Applied Mathematics*, *Computer Science* and *Data Science*.
+I'm a <b><u>Machine Learning Research Engineer</u></b> at [Hi! PARIS](https://www.hi-paris.fr/), an AI research center founded by **Institut Polytechnique de Paris** and **HEC Paris** in 2020. My educational background is in Applied Mathematics, Computer Science and Data Science.
 
 I have experience **conducting advanced projects** 💻 in **NLP**, **Computer Vision** and **Generative AI** with researchers at Institut Polytechnique de Paris and HEC Paris, as well as **contributing to popular open-source packages**. <br>
 
