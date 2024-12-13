@@ -35,7 +35,7 @@ I've lead the creation of **educational materials** 📚 related to Python and D
   - A practical session on Machine Learning Deployment using Streamlit, AWS SageMaker and Docker 
   - Find course [here](https://github.com/laudavid/ss2024_deploy_app)
 - **Learn how to develop your own Python Package** 📦 (Hi! PARIS Summer School 2023)
-  - A practical session on python package creation on package structure, unit testing with pytest and pytest-cov, CI/CD with Github actions and publishing with PyPI
+  - A practical session on python package creation containing package build (setup.py, pyproject.toml), unit testing with pytest and pytest-cov, CI/CD with Github actions and publishing with PyPI
   - Find course [here](https://github.com/laudavid/Summer_School_Package)
 - **Intermediate-level Data Science courses** (Hi!ckathon #5)
   - Courses in Data Cleaning/Feature Engineering, Machine Learning, Explainability and Deep Learning
