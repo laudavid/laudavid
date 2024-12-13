@@ -22,7 +22,7 @@ I'm a currently a <b><u>Machine Learning Research Engineer</u></b> at [Hi! PARIS
 📚 I've lead the creation of **educational materials** related to Python and Data Science for Hi! PARIS' data events, such as the Summer School, Data Bootcamp and Hackathon. 
 
 
-### Contributions to open-source packages 📦:
+### Contributions to open-source packages 📦
 - [POT](https://github.com/PythonOT/POT): A popular **Optimal Transport** open-source Python library (over 2k stars). I contributed by implementing the **low rank sinkhorn** and **low rank gromov-wasserstein**, memory-efficient adaptations.
   - Example of low-rank sinkhorn [here](https://pythonot.github.io/auto_examples/others/plot_lowrank_sinkhorn.html#sphx-glr-auto-examples-others-plot-lowrank-sinkhorn-py)
   - Example of low-rank gromov-wasserstein [here](https://pythonot.github.io/auto_examples/others/plot_lowrank_GW.html#sphx-glr-auto-examples-others-plot-lowrank-gw-py)
@@ -30,7 +30,7 @@ I'm a currently a <b><u>Machine Learning Research Engineer</u></b> at [Hi! PARIS
 - [LowRankDensity](https://github.com/hi-paris/Lowrankdensity). A **probability density estimation package** developed by Hi! PARIS with researchers at l'ENSAE and Toulouse School of Economics. Main contributor to package where I implemented the low-rank density estimators, resampling algorithms and 2D/3D density plots.
 
 
-### Courses I've developed/co-created 🎓:
+### Courses I've developed/co-created 🎓
 - **Exploring Machine Learning Deployment from beginner to advance level** 🚀 (Hi! PARIS Summer School 2024)
   - A practical session on Machine Learning Deployment using Streamlit, AWS SageMaker and Docker 
   - Find course [here](https://github.com/laudavid/ss2024_deploy_app)
@@ -40,3 +40,8 @@ I'm a currently a <b><u>Machine Learning Research Engineer</u></b> at [Hi! PARIS
 - **Intermediate-level Data Science courses** (Hi!ckathon #5)
   - Courses in Data Cleaning/Feature Engineering, Machine Learning, Explainability and Deep Learning
   - Find courses [here](https://github.com/hi-paris/Hickathon5)
+ 
+<br>
+ 
+**My email**: laurene.david@ip-paris.fr (or laurene.gdavid@gmail.com) <br>
+**My linkedin**: https://www.linkedin.com/in/laurene-david-/
