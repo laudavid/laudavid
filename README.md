@@ -1,4 +1,4 @@
-## Hi, I'm Laurene 👋👩
+## Hi, I'm Laurène 👋👩
 
 <!--
 **laudavid/laudavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ I've lead the creation of **educational materials** 📚 related to Python and D
 
 
 ### Contributions to open-source packages 📦
-- [POT](https://github.com/PythonOT/POT): A popular **Optimal Transport** open-source Python library (over 2k stars). I contributed by implementing the **low rank sinkhorn** and **low rank gromov-wasserstein**, memory-efficient adaptations.
+- [POT](https://github.com/PythonOT/POT): A popular **Optimal Transport** open-source Python library (over 2k stars). I contributed by implementing the **low rank sinkhorn** and **low rank gromov-wasserstein**, memory-efficient adaptations of the OT solvers.
   - Example of low-rank sinkhorn [here](https://pythonot.github.io/auto_examples/others/plot_lowrank_sinkhorn.html#sphx-glr-auto-examples-others-plot-lowrank-sinkhorn-py)
   - Example of low-rank gromov-wasserstein [here](https://pythonot.github.io/auto_examples/others/plot_lowrank_GW.html#sphx-glr-auto-examples-others-plot-lowrank-gw-py)
 - [scikit-network](https://github.com/sknetwork-team/scikit-network): A popular **Graph Machine Learning** open-source Python library (over 600 stars). I contributed by developping **KCenters**, an adaptation of the K-means clustering algorithm to graphs using page rank to measure distances.
